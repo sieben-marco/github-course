@@ -1,5 +1,5 @@
 # Git Course
-hauajdhdhsushh
+
 Este e um repositorio teste de Git.
 
 Nova linha de teste.
